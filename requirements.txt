@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+streamlit
+langchainhub
+openai
+faiss-cpu
+boto3
+sentence-transformers
+pypdf
+chromadb
+jsonpickle
